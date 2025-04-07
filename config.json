@@ -1,0 +1,54 @@
+{
+  "discord_links": [
+    {
+      "name": "Discord",
+      "url": "https://dsc.gg/zextorx"
+    },
+    {
+      "name": "Store Link",
+      "url": "https://zextorx.mysellauth.com/",
+      "icon": "shopping-cart"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Zynox-XD",
+      "icon": "youtube"
+    }
+  ],
+  "products": [
+    {
+      "id": "Website",
+      "name": "Buy This Website Tools Full Secure Code",
+      "price": "20$ LTC",
+      "icon": "crown",
+      "url": "https://discord.com/nitro"
+    }
+  ],
+  "social_links": [
+    {
+      "name": "Discord",
+      "url": "https://dsc.gg/zextorx",
+      "icon": "discord"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://dsc.gg/zextorx",
+      "icon": "github"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://dsc.gg/zextorx",
+      "icon": "telegram"
+    }
+  ],
+  "auth": {
+    "credentials": [
+      {
+        "username": "admin",
+        "password": "password123",
+        "last_updated": "2025-04-06"
+      }
+    ],
+    "session_timeout": 3600
+  }
+}
